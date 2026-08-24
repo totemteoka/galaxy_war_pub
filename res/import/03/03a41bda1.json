@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteAtlas","_name":"boss_2_3_1.plist","_spriteFrames":{"boss_zt_2_3_1":{"__uuid__":"b5R+iaOvBFY7wIydUg0c0L"}}},{"__type__":"cc.SpriteFrame","content":{"name":"boss_zt_2_3_1","texture":"7f7aDNJQ5HhIqFxdobg1Ue","rect":[4,4,1067,1121],"offset":[0,0],"originalSize":[1067,1121],"capInsets":[0,0,0,0]}}]

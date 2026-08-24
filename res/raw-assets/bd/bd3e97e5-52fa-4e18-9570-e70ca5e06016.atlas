@@ -1,0 +1,34 @@
+
+skel_btn_start.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: false
+  xy: 1, 31
+  size: 412, 166
+  orig: 412, 166
+  offset: 0, 0
+  index: -1
+0001
+  rotate: false
+  xy: 414, 71
+  size: 296, 126
+  orig: 296, 126
+  offset: 0, 0
+  index: -1
+kk1
+  rotate: false
+  xy: 711, 88
+  size: 224, 109
+  orig: 224, 109
+  offset: 0, 0
+  index: -1
+未命名-3
+  rotate: false
+  xy: 1, 1
+  size: 95, 29
+  orig: 95, 29
+  offset: 0, 0
+  index: -1

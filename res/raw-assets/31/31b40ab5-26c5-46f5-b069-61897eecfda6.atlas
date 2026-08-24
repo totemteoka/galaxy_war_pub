@@ -1,0 +1,76 @@
+
+skel_shield_skill_back.png
+size: 862,862
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+06
+  rotate: false
+  xy: 1, 491
+  size: 658, 370
+  orig: 658, 370
+  offset: 0, 0
+  index: -1
+bg0001
+  rotate: true
+  xy: 660, 486
+  size: 214, 128
+  orig: 214, 128
+  offset: 0, 0
+  index: -1
+bg0002
+  rotate: false
+  xy: 1, 1
+  size: 214, 128
+  orig: 214, 128
+  offset: 0, 0
+  index: -1
+bg0003
+  rotate: false
+  xy: 216, 1
+  size: 214, 128
+  orig: 214, 128
+  offset: 0, 0
+  index: -1
+bg0004
+  rotate: false
+  xy: 431, 1
+  size: 214, 128
+  orig: 214, 128
+  offset: 0, 0
+  index: -1
+bg0005
+  rotate: false
+  xy: 646, 357
+  size: 214, 128
+  orig: 214, 128
+  offset: 0, 0
+  index: -1
+bg0006
+  rotate: true
+  xy: 642, 142
+  size: 214, 128
+  orig: 214, 128
+  offset: 0, 0
+  index: -1
+bg0007
+  rotate: false
+  xy: 646, 13
+  size: 214, 128
+  orig: 214, 128
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: true
+  xy: 1, 130
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 660, 701
+  size: 171, 160
+  orig: 171, 160
+  offset: 0, 0
+  index: -1

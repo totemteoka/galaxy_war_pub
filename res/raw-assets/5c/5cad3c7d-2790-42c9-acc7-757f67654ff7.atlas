@@ -1,0 +1,97 @@
+
+skel_legcloth_skill.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: true
+  xy: 2, 209
+  size: 288, 768
+  orig: 288, 768
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 772, 369
+  size: 137, 128
+  orig: 137, 128
+  offset: 0, 0
+  index: -1
+quan_11_看图王
+  rotate: false
+  xy: 2, 2
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+图层 10
+  rotate: false
+  xy: 796, 133
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+图层 11
+  rotate: false
+  xy: 911, 290
+  size: 95, 91
+  orig: 95, 91
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 209, 80
+  size: 122, 127
+  orig: 122, 127
+  offset: 0, 0
+  index: -1
+图层 3
+  rotate: false
+  xy: 772, 245
+  size: 127, 122
+  orig: 127, 122
+  offset: 0, 0
+  index: -1
+图层 4
+  rotate: false
+  xy: 333, 93
+  size: 118, 114
+  orig: 118, 114
+  offset: 0, 0
+  index: -1
+图层 5
+  rotate: false
+  xy: 796, 26
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+图层 6
+  rotate: false
+  xy: 570, 95
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+图层 7
+  rotate: false
+  xy: 453, 92
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+图层 8
+  rotate: false
+  xy: 684, 97
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+图层 9
+  rotate: false
+  xy: 911, 383
+  size: 111, 114
+  orig: 111, 114
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,202 @@
+
+skel_gift_swordTop.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+06
+  rotate: true
+  xy: 1228, 1842
+  size: 203, 400
+  orig: 203, 400
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 660, 1015
+  size: 118, 256
+  orig: 118, 256
+  offset: 0, 0
+  index: -1
+HH
+  rotate: true
+  xy: 1629, 1876
+  size: 169, 363
+  orig: 169, 363
+  offset: 0, 0
+  index: -1
+baitu
+  rotate: false
+  xy: 1, 45
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 1461, 1681
+  size: 171, 160
+  orig: 171, 160
+  offset: 0, 0
+  index: -1
+e008
+  rotate: false
+  xy: 1, 901
+  size: 658, 370
+  orig: 658, 370
+  offset: 0, 0
+  index: -1
+guangtiao
+  rotate: false
+  xy: 787, 1257
+  size: 239, 87
+  orig: 239, 87
+  offset: 0, 0
+  index: -1
+jianfeng
+  rotate: false
+  xy: 1, 487
+  size: 329, 413
+  orig: 329, 413
+  offset: 0, 0
+  index: -1
+s0_01
+  rotate: false
+  xy: 1827, 1810
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+s0_02
+  rotate: false
+  xy: 1633, 1691
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+s0_03
+  rotate: false
+  xy: 1752, 1806
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+s0_04
+  rotate: true
+  xy: 1993, 1957
+  size: 88, 53
+  orig: 88, 53
+  offset: 0, 0
+  index: -1
+sd_01
+  rotate: true
+  xy: 1092, 1441
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+sd_02
+  rotate: false
+  xy: 1228, 1725
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+sd_03
+  rotate: false
+  xy: 331, 523
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+sd_04
+  rotate: false
+  xy: 779, 1140
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+sj-feiji
+  rotate: false
+  xy: 1, 1272
+  size: 785, 773
+  orig: 785, 773
+  offset: 0, 0
+  index: -1
+sj-ss
+  rotate: false
+  xy: 1, 226
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1
+sj-ss2
+  rotate: false
+  xy: 331, 640
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1
+sj-wenzi1
+  rotate: false
+  xy: 787, 1674
+  size: 440, 371
+  orig: 440, 371
+  offset: 0, 0
+  index: -1
+sj-wenzi2
+  rotate: false
+  xy: 787, 1345
+  size: 304, 328
+  orig: 304, 328
+  offset: 0, 0
+  index: -1
+tuowei
+  rotate: false
+  xy: 779, 1064
+  size: 233, 75
+  orig: 233, 75
+  offset: 0, 0
+  index: -1
+zou0001
+  rotate: false
+  xy: 660, 908
+  size: 118, 106
+  orig: 118, 106
+  offset: 0, 0
+  index: -1
+zou0002
+  rotate: false
+  xy: 779, 957
+  size: 118, 106
+  orig: 118, 106
+  offset: 0, 0
+  index: -1
+zou0003
+  rotate: true
+  xy: 182, 107
+  size: 118, 106
+  orig: 118, 106
+  offset: 0, 0
+  index: -1
+zou0004
+  rotate: false
+  xy: 898, 957
+  size: 118, 106
+  orig: 118, 106
+  offset: 0, 0
+  index: -1
+zou0005
+  rotate: false
+  xy: 1092, 1334
+  size: 118, 106
+  orig: 118, 106
+  offset: 0, 0
+  index: -1
+zou0006
+  rotate: false
+  xy: 1633, 1769
+  size: 118, 106
+  orig: 118, 106
+  offset: 0, 0
+  index: -1

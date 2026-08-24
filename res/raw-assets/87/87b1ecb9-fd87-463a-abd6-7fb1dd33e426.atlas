@@ -1,0 +1,69 @@
+
+spine_ninePalaceReward_2.png
+size: 360,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flash_00000
+  rotate: false
+  xy: 244, 254
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+flash_00001
+  rotate: false
+  xy: 1, 13
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+flash_00002
+  rotate: false
+  xy: 134, 107
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+flash_00003
+  rotate: false
+  xy: 107, 1
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+flash_00004
+  rotate: false
+  xy: 244, 148
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+flash_00005
+  rotate: false
+  xy: 240, 42
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+flash_00006
+  rotate: false
+  xy: 240, 42
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+light111
+  rotate: false
+  xy: 1, 213
+  size: 242, 146
+  orig: 242, 146
+  offset: 0, 0
+  index: -1
+zj
+  rotate: false
+  xy: 1, 119
+  size: 132, 93
+  orig: 132, 93
+  offset: 0, 0
+  index: -1

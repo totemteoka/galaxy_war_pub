@@ -1,0 +1,97 @@
+
+skel_force_light.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GGG
+  rotate: false
+  xy: 1, 756
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+SUIT
+  rotate: false
+  xy: 1, 1
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1
+baiquan
+  rotate: false
+  xy: 1107, 1627
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+bqq
+  rotate: false
+  xy: 1, 128
+  size: 291, 284
+  orig: 291, 284
+  offset: 0, 0
+  index: -1
+bqq2
+  rotate: false
+  xy: 1107, 1510
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 660, 1307
+  size: 171, 160
+  orig: 171, 160
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 660, 1468
+  size: 446, 459
+  orig: 446, 459
+  offset: 0, 0
+  index: -1
+quan2
+  rotate: false
+  xy: 1, 413
+  size: 336, 342
+  orig: 336, 342
+  offset: 0, 0
+  index: -1
+www2++
+  rotate: false
+  xy: 1665, 1855
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 514, 1012
+  size: 256, 48
+  orig: 256, 48
+  offset: 0, 0
+  index: -1
+xq1
+  rotate: false
+  xy: 338, 605
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+zq
+  rotate: false
+  xy: 1, 1269
+  size: 658, 658
+  orig: 658, 658
+  offset: 0, 0
+  index: -1
+zq3
+  rotate: false
+  xy: 1408, 1671
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+skel_mainplane_15.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+boomfire_00000
+  rotate: false
+  xy: 107, 89
+  size: 19, 19
+  orig: 80, 80
+  offset: 31, 31
+  index: -1
+boomfire_00001
+  rotate: true
+  xy: 79, 79
+  size: 29, 26
+  orig: 80, 80
+  offset: 30, 29
+  index: -1
+boomfire_00002
+  rotate: false
+  xy: 568, 147
+  size: 41, 41
+  orig: 80, 80
+  offset: 26, 25
+  index: -1
+boomfire_00003
+  rotate: false
+  xy: 651, 92
+  size: 54, 56
+  orig: 80, 80
+  offset: 22, 22
+  index: -1
+boomfire_00004
+  rotate: true
+  xy: 555, 13
+  size: 60, 58
+  orig: 80, 80
+  offset: 18, 21
+  index: -1
+boomfire_00005
+  rotate: true
+  xy: 531, 75
+  size: 64, 59
+  orig: 80, 80
+  offset: 16, 20
+  index: -1
+boomfire_00006
+  rotate: true
+  xy: 68, 9
+  size: 64, 60
+  orig: 80, 80
+  offset: 16, 19
+  index: -1
+boomfire_00007
+  rotate: true
+  xy: 554, 190
+  size: 64, 60
+  orig: 80, 80
+  offset: 16, 18
+  index: -1
+boomfire_00008
+  rotate: false
+  xy: 592, 85
+  size: 57, 60
+  orig: 80, 80
+  offset: 23, 18
+  index: -1
+boomfire_00009
+  rotate: false
+  xy: 616, 194
+  size: 57, 60
+  orig: 80, 80
+  offset: 23, 18
+  index: -1
+boomfire_00010
+  rotate: false
+  xy: 615, 24
+  size: 57, 59
+  orig: 80, 80
+  offset: 23, 19
+  index: -1
+图层 177 拷贝
+  rotate: true
+  xy: 342, 128
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+图层 20
+  rotate: false
+  xy: 304, 4
+  size: 75, 110
+  orig: 75, 117
+  offset: 0, 5
+  index: -1
+图层 21 拷贝 3
+  rotate: false
+  xy: 2, 75
+  size: 75, 179
+  orig: 75, 203
+  offset: 0, 14
+  index: -1
+图层 309
+  rotate: false
+  xy: 611, 150
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+图层 314 拷贝 2
+  rotate: false
+  xy: 432, 128
+  size: 34, 126
+  orig: 34, 126
+  offset: 0, 0
+  index: -1
+图层 327
+  rotate: true
+  xy: 503, 11
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+图层 331 拷贝
+  rotate: true
+  xy: 443, 36
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+图层 335
+  rotate: false
+  xy: 2, 3
+  size: 64, 70
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+图层 348
+  rotate: true
+  xy: 443, 2
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+图层 353
+  rotate: false
+  xy: 217, 9
+  size: 40, 101
+  orig: 40, 101
+  offset: 0, 0
+  index: -1
+图层 354
+  rotate: false
+  xy: 381, 8
+  size: 60, 118
+  orig: 60, 118
+  offset: 0, 0
+  index: -1
+图层 355
+  rotate: false
+  xy: 278, 116
+  size: 62, 138
+  orig: 62, 138
+  offset: 0, 0
+  index: -1
+图层 357 拷贝
+  rotate: false
+  xy: 130, 2
+  size: 85, 106
+  orig: 85, 106
+  offset: 0, 0
+  index: -1
+图层 358
+  rotate: true
+  xy: 468, 128
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+图层 360
+  rotate: true
+  xy: 522, 141
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+图层 361
+  rotate: false
+  xy: 79, 110
+  size: 55, 144
+  orig: 55, 147
+  offset: 0, 0
+  index: -1
+图层 7 拷贝 3
+  rotate: false
+  xy: 259, 16
+  size: 43, 94
+  orig: 54, 120
+  offset: 6, 7
+  index: -1
+组 2 拷贝 2
+  rotate: true
+  xy: 136, 112
+  size: 142, 140
+  orig: 147, 144
+  offset: 3, 1
+  index: -1
+组 7 拷贝
+  rotate: false
+  xy: 468, 165
+  size: 84, 89
+  orig: 86, 92
+  offset: 2, 0
+  index: -1

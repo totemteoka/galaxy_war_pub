@@ -1,0 +1,62 @@
+
+skel_sword_skill.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000000000000
+  rotate: true
+  xy: 1043, 300
+  size: 180, 377
+  orig: 180, 377
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 642, 277
+  size: 203, 400
+  orig: 203, 400
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 1, 1
+  size: 118, 256
+  orig: 118, 256
+  offset: 0, 0
+  index: -1
+HH
+  rotate: true
+  xy: 1421, 280
+  size: 200, 220
+  orig: 200, 220
+  offset: 0, 0
+  index: -1
+baitu
+  rotate: false
+  xy: 1642, 300
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: true
+  xy: 1, 120
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 1823, 320
+  size: 171, 160
+  orig: 171, 160
+  offset: 0, 0
+  index: -1
+tuowei
+  rotate: false
+  xy: 642, 201
+  size: 233, 75
+  orig: 233, 75
+  offset: 0, 0
+  index: -1

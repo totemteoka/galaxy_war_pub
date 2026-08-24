@@ -1,0 +1,502 @@
+
+skel_mainplane_11.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: true
+  xy: 2020, 1958
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+4444
+  rotate: false
+  xy: 714, 1
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+L-3B
+  rotate: false
+  xy: 2020, 2013
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+L-duanchi
+  rotate: false
+  xy: 212, 3
+  size: 58, 25
+  orig: 58, 25
+  offset: 0, 0
+  index: -1
+L-lianjieguanjie
+  rotate: false
+  xy: 2020, 1895
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+L-longtou
+  rotate: true
+  xy: 1519, 55
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+L-shentixia
+  rotate: true
+  xy: 1066, 20
+  size: 84, 86
+  orig: 84, 86
+  offset: 0, 0
+  index: -1
+L-shentizhong
+  rotate: true
+  xy: 1387, 55
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+L-waiyida
+  rotate: false
+  xy: 751, 20
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+L-weiba1
+  rotate: true
+  xy: 1153, 1
+  size: 30, 76
+  orig: 30, 76
+  offset: 0, 0
+  index: -1
+L-xiaochi
+  rotate: true
+  xy: 837, 53
+  size: 51, 134
+  orig: 51, 134
+  offset: 0, 0
+  index: -1
+left_++
+  rotate: true
+  xy: 837, 53
+  size: 51, 134
+  orig: 51, 134
+  offset: 0, 0
+  index: -1
+L-xiaochi - 副本
+  rotate: true
+  xy: 655, 43
+  size: 55, 138
+  orig: 55, 138
+  offset: 0, 0
+  index: -1
+L-xuanzhuan
+  rotate: false
+  xy: 1316, 46
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+L-zuobianlin
+  rotate: true
+  xy: 1308, 8
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+L-zuobianlin - 副本
+  rotate: true
+  xy: 1509, 17
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+L-zuojiao
+  rotate: true
+  xy: 1226, 34
+  size: 29, 77
+  orig: 29, 77
+  offset: 0, 0
+  index: -1
+L-zuojiao - 副本
+  rotate: true
+  xy: 1230, 4
+  size: 29, 77
+  orig: 29, 77
+  offset: 0, 0
+  index: -1
+T-bian0001
+  rotate: true
+  xy: 1, 2
+  size: 96, 210
+  orig: 96, 210
+  offset: 0, 0
+  index: -1
+T-biao2
+  rotate: false
+  xy: 1153, 32
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+T-gx
+  rotate: false
+  xy: 212, 29
+  size: 232, 69
+  orig: 232, 69
+  offset: 0, 0
+  index: -1
+T-shan0001
+  rotate: false
+  xy: 1, 1509
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0002
+  rotate: false
+  xy: 1, 970
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0003
+  rotate: false
+  xy: 674, 1509
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0004
+  rotate: false
+  xy: 1, 431
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0005
+  rotate: false
+  xy: 674, 970
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0006
+  rotate: false
+  xy: 1347, 1509
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0007
+  rotate: false
+  xy: 674, 431
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0008
+  rotate: false
+  xy: 1347, 970
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0009
+  rotate: false
+  xy: 1347, 431
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1226, 64
+  size: 40, 89
+  orig: 40, 89
+  offset: 0, 0
+  index: -1
+fury_tale
+  rotate: true
+  xy: 655, 1
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+fury_tale - 副本
+  rotate: true
+  xy: 1448, 31
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+g3-70
+  rotate: true
+  xy: 837, 105
+  size: 325, 739
+  orig: 325, 739
+  offset: 0, 0
+  index: -1
+g5-70
+  rotate: true
+  xy: 1577, 147
+  size: 283, 445
+  orig: 283, 445
+  offset: 0, 0
+  index: -1
+g6-50
+  rotate: true
+  xy: 1, 99
+  size: 331, 835
+  orig: 331, 835
+  offset: 0, 0
+  index: -1
+huo
+  rotate: true
+  xy: 445, 6
+  size: 92, 209
+  orig: 92, 209
+  offset: 0, 0
+  index: -1
+jetpack
+  rotate: false
+  xy: 2020, 1926
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+jiqiang
+  rotate: true
+  xy: 271, 7
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+left_++ - 副本
+  rotate: true
+  xy: 794, 1
+  size: 51, 134
+  orig: 51, 134
+  offset: 0, 0
+  index: -1
+left_engine
+  rotate: false
+  xy: 1365, 8
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+left_head
+  rotate: false
+  xy: 794, 55
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+left_jet
+  rotate: true
+  xy: 751, 1
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+left_longwing
+  rotate: true
+  xy: 929, 9
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+left_machine
+  rotate: false
+  xy: 972, 59
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+s0001
+  rotate: false
+  xy: 994, 22
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+sd_01
+  rotate: false
+  xy: 1577, 30
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+sd_02
+  rotate: false
+  xy: 1810, 30
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+tale
+  rotate: true
+  xy: 1448, 65
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+turbo
+  rotate: false
+  xy: 1412, 23
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+
+skel_mainplane_112.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+++
+  rotate: false
+  xy: 1735, 1233
+  size: 171, 254
+  orig: 171, 254
+  offset: 0, 0
+  index: -1
+T-biao
+  rotate: false
+  xy: 1347, 1046
+  size: 300, 169
+  orig: 300, 169
+  offset: 0, 0
+  index: -1
+T-di
+  rotate: false
+  xy: 693, 113
+  size: 196, 110
+  orig: 196, 110
+  offset: 0, 0
+  index: -1
+T-shan0010
+  rotate: false
+  xy: 1, 1488
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0011
+  rotate: false
+  xy: 1, 949
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0012
+  rotate: false
+  xy: 674, 1488
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0013
+  rotate: false
+  xy: 1, 410
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0014
+  rotate: false
+  xy: 674, 949
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0016
+  rotate: false
+  xy: 1347, 1488
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+T-shan0018
+  rotate: false
+  xy: 674, 410
+  size: 672, 538
+  orig: 672, 538
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 1347, 768
+  size: 171, 160
+  orig: 171, 160
+  offset: 0, 0
+  index: -1
+g2-70
+  rotate: false
+  xy: 1, 56
+  size: 379, 353
+  orig: 379, 353
+  offset: 0, 0
+  index: -1
+g4-70
+  rotate: false
+  xy: 1347, 1216
+  size: 387, 271
+  orig: 387, 271
+  offset: 0, 0
+  index: -1
+g6-50+
+  rotate: false
+  xy: 381, 115
+  size: 311, 294
+  orig: 311, 294
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 693, 224
+  size: 177, 185
+  orig: 177, 185
+  offset: 0, 0
+  index: -1
+sd_03
+  rotate: false
+  xy: 1347, 929
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+sd_04
+  rotate: false
+  xy: 871, 293
+  size: 232, 116
+  orig: 232, 116
+  offset: 0, 0
+  index: -1
+tb0001
+  rotate: false
+  xy: 1347, 567
+  size: 120, 200
+  orig: 120, 200
+  offset: 0, 0
+  index: -1
+tb0002
+  rotate: true
+  xy: 1104, 289
+  size: 120, 200
+  orig: 120, 200
+  offset: 0, 0
+  index: -1
+tb0003
+  rotate: false
+  xy: 1907, 1287
+  size: 120, 200
+  orig: 120, 200
+  offset: 0, 0
+  index: -1

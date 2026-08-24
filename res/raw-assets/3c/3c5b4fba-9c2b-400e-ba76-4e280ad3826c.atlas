@@ -1,0 +1,41 @@
+
+skel_shopDraw_getBg.png
+size: 1277,1277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A-BG
+  rotate: false
+  xy: 1, 1
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+B-BG
+  rotate: true
+  xy: 636, 916
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+S-BG
+  rotate: false
+  xy: 362, 1
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+SS-BG
+  rotate: false
+  xy: 723, 275
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+guangyuan
+  rotate: false
+  xy: 1, 642
+  size: 634, 634
+  orig: 634, 634
+  offset: 0, 0
+  index: -1

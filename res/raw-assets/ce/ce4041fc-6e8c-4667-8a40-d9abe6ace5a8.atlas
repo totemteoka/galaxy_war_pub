@@ -1,0 +1,27 @@
+
+skel_mainplane_12_circle.png
+size: 714,714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuai
+  rotate: false
+  xy: 427, 681
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+quan1
+  rotate: false
+  xy: 1, 1
+  size: 287, 288
+  orig: 287, 288
+  offset: 0, 0
+  index: -1
+quan2
+  rotate: false
+  xy: 1, 290
+  size: 425, 423
+  orig: 425, 423
+  offset: 0, 0
+  index: -1

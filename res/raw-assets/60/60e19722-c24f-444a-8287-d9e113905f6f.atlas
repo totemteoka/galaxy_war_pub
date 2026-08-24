@@ -1,0 +1,27 @@
+
+skel_force_line.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sd1
+  rotate: false
+  xy: 1, 104
+  size: 51, 102
+  orig: 51, 102
+  offset: 0, 0
+  index: -1
+sd2
+  rotate: false
+  xy: 1, 1
+  size: 51, 102
+  orig: 51, 102
+  offset: 0, 0
+  index: -1
+sd3
+  rotate: false
+  xy: 53, 104
+  size: 51, 102
+  orig: 51, 102
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+skel_titleeffect.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000
+  rotate: false
+  xy: 587, 163
+  size: 115, 120
+  orig: 115, 120
+  offset: 0, 0
+  index: -1
+huangguang
+  rotate: false
+  xy: 1311, 205
+  size: 374, 104
+  orig: 374, 104
+  offset: 0, 0
+  index: -1
+j0001
+  rotate: false
+  xy: 408, 89
+  size: 178, 194
+  orig: 178, 194
+  offset: 0, 0
+  index: -1
+j0002
+  rotate: false
+  xy: 1085, 205
+  size: 225, 105
+  orig: 225, 105
+  offset: 0, 0
+  index: -1
+j0002 - 副本
+  rotate: false
+  xy: 1807, 382
+  size: 225, 105
+  orig: 225, 105
+  offset: 0, 0
+  index: -1
+j0002+
+  rotate: false
+  xy: 1, 284
+  size: 726, 203
+  orig: 726, 203
+  offset: 0, 0
+  index: -1
+j0003
+  rotate: false
+  xy: 1, 1
+  size: 230, 47
+  orig: 230, 47
+  offset: 0, 0
+  index: -1
+j0005
+  rotate: false
+  xy: 1449, 310
+  size: 357, 177
+  orig: 357, 177
+  offset: 0, 0
+  index: -1
+j0005+
+  rotate: false
+  xy: 1085, 311
+  size: 363, 176
+  orig: 363, 176
+  offset: 0, 0
+  index: -1
+j0005++
+  rotate: false
+  xy: 1, 49
+  size: 406, 234
+  orig: 406, 234
+  offset: 0, 0
+  index: -1
+j0009
+  rotate: true
+  xy: 728, 143
+  size: 344, 356
+  orig: 344, 356
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 1085, 147
+  size: 202, 57
+  orig: 202, 57
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"cl2_4_1","texture":"25EhTI14tHD5vJP0uREdPL","rect":[1,1,760,1186],"offset":[0,19],"originalSize":[760,1280],"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteAtlas","_name":"map2_floor_stageWuyun.plist","_spriteFrames":{"cl2_4_1":{"__uuid__":"225TIgwTFOHrimXLU2eaLN"}}}]

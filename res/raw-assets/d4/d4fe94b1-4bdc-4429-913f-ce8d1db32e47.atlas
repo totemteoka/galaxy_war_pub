@@ -1,0 +1,13 @@
+
+spine_pilotRole_shine.png
+size: 18,18
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

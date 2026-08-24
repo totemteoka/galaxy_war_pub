@@ -1,0 +1,13 @@
+
+skel_deer_skill_bg.png
+size: 687,687
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 1
+  size: 360, 685
+  orig: 360, 685
+  offset: 0, 0
+  index: -1

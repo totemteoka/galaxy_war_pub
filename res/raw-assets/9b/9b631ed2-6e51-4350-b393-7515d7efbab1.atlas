@@ -1,0 +1,244 @@
+
+skill_gift_cloth_front.png
+size: 1201,1200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++3
+  rotate: false
+  xy: 1004, 840
+  size: 179, 178
+  orig: 179, 178
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 1, 836
+  size: 680, 363
+  orig: 680, 363
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 1, 245
+  size: 614, 590
+  orig: 614, 590
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 616, 375
+  size: 203, 400
+  orig: 203, 400
+  offset: 0, 0
+  index: -1
+baitu
+  rotate: false
+  xy: 1004, 1019
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cent
+  rotate: false
+  xy: 1072, 466
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+d1
+  rotate: true
+  xy: 818, 27
+  size: 175, 174
+  orig: 175, 174
+  offset: 0, 0
+  index: -1
+d2
+  rotate: true
+  xy: 95, 42
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 1061, 3
+  size: 114, 62
+  orig: 114, 62
+  offset: 0, 0
+  index: -1
+d4
+  rotate: false
+  xy: 290, 23
+  size: 123, 104
+  orig: 123, 104
+  offset: 0, 0
+  index: -1
+d5
+  rotate: false
+  xy: 1125, 616
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+d6
+  rotate: false
+  xy: 616, 91
+  size: 201, 207
+  orig: 201, 207
+  offset: 0, 0
+  index: -1
+d7
+  rotate: false
+  xy: 95, 9
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+d8
+  rotate: true
+  xy: 1, 101
+  size: 143, 171
+  orig: 143, 171
+  offset: 0, 0
+  index: -1
+d9
+  rotate: true
+  xy: 993, 66
+  size: 133, 177
+  orig: 133, 177
+  offset: 0, 0
+  index: -1
+dian
+  rotate: true
+  xy: 850, 203
+  size: 171, 160
+  orig: 171, 160
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: true
+  xy: 682, 838
+  size: 361, 321
+  orig: 361, 321
+  offset: 0, 0
+  index: -1
+quan_11_看图王
+  rotate: false
+  xy: 616, 579
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+s0_01
+  rotate: false
+  xy: 173, 128
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+s0_02
+  rotate: false
+  xy: 290, 128
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+s0_03
+  rotate: false
+  xy: 407, 128
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+s0_04
+  rotate: false
+  xy: 173, 11
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 414, 4
+  size: 104, 123
+  orig: 104, 123
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 993, 1
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+s3
+  rotate: true
+  xy: 1072, 346
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+s4
+  rotate: true
+  xy: 1, 8
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 1125, 666
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+sj-xian
+  rotate: false
+  xy: 1017, 200
+  size: 54, 394
+  orig: 54, 394
+  offset: 0, 0
+  index: -1
+tuowei
+  rotate: false
+  xy: 616, 299
+  size: 233, 75
+  orig: 233, 75
+  offset: 0, 0
+  index: -1
+wen01
+  rotate: false
+  xy: 873, 595
+  size: 251, 242
+  orig: 251, 242
+  offset: 0, 0
+  index: -1
+x1
+  rotate: true
+  xy: 524, 125
+  size: 119, 89
+  orig: 119, 89
+  offset: 0, 0
+  index: -1
+x2
+  rotate: true
+  xy: 1125, 747
+  size: 92, 69
+  orig: 92, 69
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 1072, 213
+  size: 116, 132
+  orig: 116, 132
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 519, 27
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1

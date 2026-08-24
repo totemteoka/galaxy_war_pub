@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"share","json":{"1":{"id":1,"shareId":"4"},"2":{"id":2,"shareId":"3*4"},"3":{"id":3,"shareId":"1*2"},"4":{"id":4,"shareId":"1"},"allID":[1,2,3,4]}}

@@ -1,0 +1,41 @@
+
+skel_box_reward_title.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huangguang
+  rotate: false
+  xy: 1, 337
+  size: 374, 104
+  orig: 374, 104
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 1, 169
+  size: 308, 83
+  orig: 308, 83
+  offset: 0, 0
+  index: -1
+title1
+  rotate: false
+  xy: 1, 85
+  size: 308, 83
+  orig: 308, 83
+  offset: 0, 0
+  index: -1
+title2
+  rotate: false
+  xy: 1, 1
+  size: 308, 83
+  orig: 308, 83
+  offset: 0, 0
+  index: -1
+title3
+  rotate: false
+  xy: 1, 253
+  size: 308, 83
+  orig: 308, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+skel_gift_shield_back.png
+size: 823,822
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++3
+  rotate: false
+  xy: 1, 2
+  size: 179, 178
+  orig: 179, 178
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1, 181
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+jianfeng
+  rotate: false
+  xy: 362, 408
+  size: 329, 413
+  orig: 329, 413
+  offset: 0, 0
+  index: -1
+sj-xian
+  rotate: false
+  xy: 692, 427
+  size: 54, 394
+  orig: 54, 394
+  offset: 0, 0
+  index: -1
+tuowei
+  rotate: true
+  xy: 747, 588
+  size: 233, 75
+  orig: 233, 75
+  offset: 0, 0
+  index: -1
+yuan5
+  rotate: false
+  xy: 362, 68
+  size: 339, 339
+  orig: 339, 339
+  offset: 0, 0
+  index: -1

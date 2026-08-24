@@ -1,0 +1,314 @@
+
+skill_gift_deer_back.png
+size: 1332,1332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++4
+  rotate: false
+  xy: 933, 389
+  size: 179, 178
+  orig: 179, 178
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 540, 843
+  size: 73, 355
+  orig: 73, 355
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 935, 851
+  size: 118, 256
+  orig: 118, 256
+  offset: 0, 0
+  index: -1
+aa
+  rotate: false
+  xy: 362, 104
+  size: 324, 309
+  orig: 324, 309
+  offset: 0, 0
+  index: -1
+bag
+  rotate: true
+  xy: 1192, 810
+  size: 159, 120
+  orig: 159, 120
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1, 113
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 896, 860
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+che
+  rotate: true
+  xy: 702, 573
+  size: 269, 185
+  orig: 269, 185
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 1160, 546
+  size: 171, 160
+  orig: 171, 160
+  offset: 0, 0
+  index: -1
+e009
+  rotate: false
+  xy: 362, 414
+  size: 339, 339
+  orig: 339, 339
+  offset: 0, 0
+  index: -1
+yuan5
+  rotate: false
+  xy: 362, 414
+  size: 339, 339
+  orig: 339, 339
+  offset: 0, 0
+  index: -1
+guangtiao
+  rotate: false
+  xy: 357, 16
+  size: 239, 87
+  orig: 239, 87
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 1130, 76
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+liwu1
+  rotate: false
+  xy: 1243, 190
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+liwu2
+  rotate: false
+  xy: 1028, 135
+  size: 58, 89
+  orig: 58, 89
+  offset: 0, 0
+  index: -1
+liwu3
+  rotate: false
+  xy: 1289, 1265
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+liwu4
+  rotate: false
+  xy: 1231, 105
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: false
+  xy: 964, 707
+  size: 222, 143
+  orig: 222, 143
+  offset: 0, 0
+  index: -1
+qiu1
+  rotate: false
+  xy: 1095, 224
+  size: 147, 142
+  orig: 147, 142
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: false
+  xy: 964, 568
+  size: 195, 138
+  orig: 195, 138
+  offset: 0, 0
+  index: -1
+s0_01
+  rotate: false
+  xy: 540, 756
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+s0_02
+  rotate: false
+  xy: 597, 21
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+s0_03
+  rotate: false
+  xy: 702, 371
+  size: 230, 201
+  orig: 230, 201
+  offset: 0, 0
+  index: -1
+s0_04
+  rotate: false
+  xy: 1113, 367
+  size: 179, 178
+  orig: 179, 178
+  offset: 0, 0
+  index: -1
+sj-feiji
+  rotate: false
+  xy: 540, 917
+  size: 394, 414
+  orig: 394, 414
+  offset: 0, 0
+  index: -1
+sj-feiji3
+  rotate: true
+  xy: 687, 115
+  size: 255, 206
+  orig: 255, 206
+  offset: 0, 0
+  index: -1
+sj-jian2
+  rotate: true
+  xy: 1, 52
+  size: 60, 355
+  orig: 60, 355
+  offset: 0, 0
+  index: -1
+sj-xian
+  rotate: true
+  xy: 1, 52
+  size: 60, 355
+  orig: 60, 355
+  offset: 0, 0
+  index: -1
+sj-ss
+  rotate: false
+  xy: 894, 135
+  size: 133, 235
+  orig: 133, 235
+  offset: 0, 0
+  index: -1
+sj-ss2
+  rotate: true
+  xy: 894, 1
+  size: 133, 235
+  orig: 133, 235
+  offset: 0, 0
+  index: -1
+sj-wenzi1
+  rotate: false
+  xy: 1, 754
+  size: 538, 577
+  orig: 538, 577
+  offset: 0, 0
+  index: -1
+t1
+  rotate: true
+  xy: 1187, 719
+  size: 90, 115
+  orig: 90, 115
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 687, 22
+  size: 92, 176
+  orig: 92, 176
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 1231, 47
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+t4
+  rotate: true
+  xy: 627, 760
+  size: 82, 72
+  orig: 82, 72
+  offset: 0, 0
+  index: -1
+t5
+  rotate: false
+  xy: 1028, 225
+  size: 66, 163
+  orig: 66, 163
+  offset: 0, 0
+  index: -1
+tuowei
+  rotate: true
+  xy: 888, 609
+  size: 233, 75
+  orig: 233, 75
+  offset: 0, 0
+  index: -1
+xiao-bai
+  rotate: false
+  xy: 935, 970
+  size: 353, 361
+  orig: 353, 361
+  offset: 0, 0
+  index: -1
+zou0001
+  rotate: true
+  xy: 1, 5
+  size: 46, 99
+  orig: 46, 99
+  offset: 0, 0
+  index: -1
+zou0002
+  rotate: false
+  xy: 1243, 267
+  size: 46, 99
+  orig: 46, 99
+  offset: 0, 0
+  index: -1
+zou0003
+  rotate: true
+  xy: 101, 5
+  size: 46, 99
+  orig: 46, 99
+  offset: 0, 0
+  index: -1
+zou0004
+  rotate: true
+  xy: 201, 5
+  size: 46, 99
+  orig: 46, 99
+  offset: 0, 0
+  index: -1
+zou0005
+  rotate: true
+  xy: 1087, 177
+  size: 46, 99
+  orig: 46, 99
+  offset: 0, 0
+  index: -1
+zou0006
+  rotate: true
+  xy: 1130, 29
+  size: 46, 99
+  orig: 46, 99
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+skill_gift_deer_front.png
+size: 325,325
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+008
+  rotate: false
+  xy: 1, 97
+  size: 258, 227
+  orig: 258, 227
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 260, 286
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+E_lizi0562
+  rotate: false
+  xy: 1, 1
+  size: 143, 95
+  orig: 143, 95
+  offset: 0, 0
+  index: -1
+xuehua
+  rotate: false
+  xy: 145, 71
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1

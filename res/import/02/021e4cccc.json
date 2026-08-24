@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteAtlas","_name":"chapterGold_Map.plist","_spriteFrames":{"bgj_1_1":{"__uuid__":"efbhEs82VFSKzegcF9qFpy"}}},{"__type__":"cc.SpriteFrame","content":{"name":"bgj_1_1","texture":"64uFqjngVBeYXVVXojwpVF","rect":[1,1,720,1280],"offset":[0,0],"originalSize":[720,1280],"capInsets":[0,0,0,0]}}]

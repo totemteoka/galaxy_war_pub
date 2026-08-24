@@ -1,0 +1,20 @@
+
+spine_up_particle.png
+size: 321,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+008
+  rotate: false
+  xy: 276, 275
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+E_lizi0562
+  rotate: false
+  xy: 1, 12
+  size: 274, 307
+  orig: 274, 307
+  offset: 0, 0
+  index: -1

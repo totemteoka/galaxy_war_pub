@@ -1,0 +1,20 @@
+
+skel_force_up.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LLL
+  rotate: false
+  xy: 140, 127
+  size: 110, 122
+  orig: 110, 122
+  offset: 0, 0
+  index: -1
+LLL2
+  rotate: false
+  xy: 1, 98
+  size: 138, 151
+  orig: 138, 151
+  offset: 0, 0
+  index: -1

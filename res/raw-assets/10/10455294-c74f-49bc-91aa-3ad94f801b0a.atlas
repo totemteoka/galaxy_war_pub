@@ -1,0 +1,62 @@
+
+skel_mainplane_12_shield.png
+size: 409,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T-biao
+  rotate: true
+  xy: 1, 136
+  size: 201, 227
+  orig: 201, 227
+  offset: 0, 0
+  index: -1
+T-biao2
+  rotate: false
+  xy: 307, 32
+  size: 101, 113
+  orig: 101, 113
+  offset: 0, 0
+  index: -1
+T-di0001
+  rotate: false
+  xy: 234, 277
+  size: 152, 130
+  orig: 152, 130
+  offset: 0, 0
+  index: -1
+T-di0002
+  rotate: false
+  xy: 1, 5
+  size: 152, 130
+  orig: 152, 130
+  offset: 0, 0
+  index: -1
+T-di0003
+  rotate: false
+  xy: 154, 5
+  size: 152, 130
+  orig: 152, 130
+  offset: 0, 0
+  index: -1
+T-di0004
+  rotate: false
+  xy: 229, 146
+  size: 152, 130
+  orig: 152, 130
+  offset: 0, 0
+  index: -1
+T-gx
+  rotate: false
+  xy: 1, 338
+  size: 232, 69
+  orig: 232, 69
+  offset: 0, 0
+  index: -1
+T-hong
+  rotate: false
+  xy: 1, 338
+  size: 232, 69
+  orig: 232, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+skel_pilot_boxOpen.png
+size: 1013,1013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GGG
+  rotate: false
+  xy: 1, 362
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+baitu
+  rotate: false
+  xy: 649, 236
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+cemian
+  rotate: false
+  xy: 649, 135
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 652, 369
+  size: 171, 160
+  orig: 171, 160
+  offset: 0, 0
+  index: -1
+dian20
+  rotate: false
+  xy: 824, 369
+  size: 171, 160
+  orig: 171, 160
+  offset: 0, 0
+  index: -1
+diceng
+  rotate: false
+  xy: 652, 756
+  size: 360, 256
+  orig: 360, 256
+  offset: 0, 0
+  index: -1
+guangsu
+  rotate: true
+  xy: 652, 337
+  size: 31, 119
+  orig: 31, 119
+  offset: 0, 0
+  index: -1
+guangsu20
+  rotate: true
+  xy: 772, 337
+  size: 31, 119
+  orig: 31, 119
+  offset: 0, 0
+  index: -1
+shang
+  rotate: false
+  xy: 652, 578
+  size: 360, 177
+  orig: 360, 177
+  offset: 0, 0
+  index: -1
+shangceng
+  rotate: true
+  xy: 1, 1
+  size: 360, 390
+  orig: 360, 390
+  offset: 0, 0
+  index: -1
+shangguang
+  rotate: false
+  xy: 652, 530
+  size: 360, 47
+  orig: 360, 47
+  offset: 0, 0
+  index: -1
+xia
+  rotate: true
+  xy: 392, 1
+  size: 360, 205
+  orig: 360, 205
+  offset: 0, 0
+  index: -1
+xiaguang
+  rotate: true
+  xy: 598, 1
+  size: 360, 50
+  orig: 360, 50
+  offset: 0, 0
+  index: -1

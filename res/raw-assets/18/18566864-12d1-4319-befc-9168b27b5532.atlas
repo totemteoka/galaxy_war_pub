@@ -1,0 +1,160 @@
+
+skel_deer_skill_mid.png
+size: 1701,1700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+008
+  rotate: true
+  xy: 1219, 226
+  size: 230, 201
+  orig: 230, 201
+  offset: 0, 0
+  index: -1
+bz0001
+  rotate: true
+  xy: 1, 729
+  size: 420, 400
+  orig: 420, 400
+  offset: 0, 0
+  index: -1
+bz0002
+  rotate: true
+  xy: 315, 1279
+  size: 420, 400
+  orig: 420, 400
+  offset: 0, 0
+  index: -1
+bz0003
+  rotate: true
+  xy: 1, 308
+  size: 420, 400
+  orig: 420, 400
+  offset: 0, 0
+  index: -1
+bz0004
+  rotate: true
+  xy: 402, 858
+  size: 420, 400
+  orig: 420, 400
+  offset: 0, 0
+  index: -1
+bz0005
+  rotate: true
+  xy: 716, 1279
+  size: 420, 400
+  orig: 420, 400
+  offset: 0, 0
+  index: -1
+bz0006
+  rotate: true
+  xy: 402, 437
+  size: 420, 400
+  orig: 420, 400
+  offset: 0, 0
+  index: -1
+bz0007
+  rotate: true
+  xy: 417, 16
+  size: 420, 400
+  orig: 420, 400
+  offset: 0, 0
+  index: -1
+bz0008
+  rotate: true
+  xy: 803, 858
+  size: 420, 400
+  orig: 420, 400
+  offset: 0, 0
+  index: -1
+bz0009
+  rotate: true
+  xy: 1117, 1279
+  size: 420, 400
+  orig: 420, 400
+  offset: 0, 0
+  index: -1
+bz0010
+  rotate: true
+  xy: 803, 437
+  size: 420, 400
+  orig: 420, 400
+  offset: 0, 0
+  index: -1
+bz0011
+  rotate: true
+  xy: 818, 16
+  size: 420, 400
+  orig: 420, 400
+  offset: 0, 0
+  index: -1
+bz0012
+  rotate: false
+  xy: 1204, 878
+  size: 420, 400
+  orig: 420, 400
+  offset: 0, 0
+  index: -1
+bz0013
+  rotate: true
+  xy: 1204, 457
+  size: 420, 400
+  orig: 420, 400
+  offset: 0, 0
+  index: -1
+huo
+  rotate: false
+  xy: 315, 1197
+  size: 34, 81
+  orig: 34, 81
+  offset: 0, 0
+  index: -1
+libao1
+  rotate: false
+  xy: 1518, 1517
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+libao2
+  rotate: false
+  xy: 1421, 274
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+libao3
+  rotate: false
+  xy: 1518, 1334
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+paoyan0007
+  rotate: false
+  xy: 1219, 25
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+paoyan0008
+  rotate: false
+  xy: 1420, 25
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+xuetiao
+  rotate: true
+  xy: 1, 103
+  size: 204, 415
+  orig: 204, 415
+  offset: 0, 0
+  index: -1
+小鹿雪橇
+  rotate: false
+  xy: 1, 1150
+  size: 313, 549
+  orig: 313, 549
+  offset: 0, 0
+  index: -1

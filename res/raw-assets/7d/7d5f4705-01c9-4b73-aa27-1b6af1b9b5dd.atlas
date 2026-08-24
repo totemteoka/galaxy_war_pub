@@ -1,0 +1,90 @@
+
+skel_ninePalace.png
+size: 454,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 1, 1
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+1_00001
+  rotate: false
+  xy: 424, 424
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+fangkuangguang
+  rotate: false
+  xy: 28, 5
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+kuang1_0
+  rotate: false
+  xy: 1, 313
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+kuang1_1
+  rotate: false
+  xy: 1, 172
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+kuang1_2
+  rotate: false
+  xy: 142, 313
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+kuang1_3
+  rotate: false
+  xy: 1, 31
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+kuang1_4
+  rotate: false
+  xy: 142, 172
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+kuang1_5
+  rotate: false
+  xy: 283, 313
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+kuang1_6
+  rotate: false
+  xy: 142, 31
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+kuang1_7
+  rotate: false
+  xy: 283, 172
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+kuang1_8
+  rotate: false
+  xy: 283, 31
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
